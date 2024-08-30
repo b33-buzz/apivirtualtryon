@@ -1,6 +1,6 @@
 Flask
-Flask-Cors==4.0.1
-numpy==1.26.4
-tensorflow==2.17.0
-tensorflow-intel==2.17.0
+Flask-Cors
+numpy
+tensorflow
+tensorflow-intel
 gunicorn
